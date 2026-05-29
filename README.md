@@ -1,13 +1,3 @@
-# Practical Use of AI Tools in Programming - Assignment
-
-This repository contains the source code and reports for all 5 sections (A-E) of the assignment.
-
-## Folder Structure
-- **Source_Code**: Contains all `.py` files for Tasks 1, 2, 4, 5, and the Mini Project.
-- **Prompt_Log**: Contains the prompt engineering logs.
-- **Screenshots**: [Empty] Add your AI tool screenshots here.
-
----
 
 # Smart Attendance System
 
